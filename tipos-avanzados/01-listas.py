@@ -1,0 +1,10 @@
+numeros = [1, 2, 3]
+letras = ["a", "b", "c"]
+palabras = ["chanchito", "feliz"]
+palabrasFelices = ["chanchito", "feliz", "sami"]
+booleans = [True, False, True, False] 
+matriz = [[1, 2, 3], [4, 5, 6]] #Esto es una matriz que es una lista conformada por mas listas
+zero = [0] * 10
+alfanumerico = numeros + letras #podemos unir dos listas existentes en una
+rango = list(range(11)) #aqui para hacer una lista desde un nuemro a otro
+chars = list("hi girl")
